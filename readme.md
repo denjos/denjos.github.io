@@ -21,3 +21,5 @@ Base de datos
 * sudo vim /etc/neo4j/neo4j.conf
 * dbms.connectors.default_listen_address=0.0.0.0
 * dbms.security.auth_enabled=false
+
+* username: neo4j - password: neo4j
