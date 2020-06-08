@@ -29,3 +29,5 @@ Base de datos
 #### increase the heap size 
 * dbms.memory.heap.initial_size=4g
 * dbms.memory.heap.max_size=4g
+## HADOOP
+* https://hadoop.apache.org/docs/r2.8.2/hadoop-project-dist/hadoop-hdfs/HDFSHighAvailabilityWithQJM.html
